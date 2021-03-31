@@ -4,11 +4,6 @@
 </em></p>
 <br>
 
-[![Github: alanapapa](https://img.icons8.com/material-outlined/48/000000/github.png?style=flat-square&logo=Instagram&logoColor=white&link=https://www.github.com/alanapapa/)](https://www.github.com/alanapapa/)
-[![Instagram: berikbazarov](https://img.icons8.com/fluent/48/000000/instagram-new.png?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/berikbazarov/)](https://www.instagram.com/berikbazarov/)
-[![Facebook: berikbazarov](https://img.icons8.com/color/48/000000/facebook.png?style=flat-square&logo=Instagram&logoColor=white&link=https://www.facebook.com/bazarovberik/)](https://www.facebook.com/bazarovberik/)
-<a href="mailto:bazarov@privatefund.kz" target="_blank"><img src="https://img.icons8.com/color/48/000000/filled-message.png"/></a>
-<br/>
 
 <code><img width="60rem" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 
