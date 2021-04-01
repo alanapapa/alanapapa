@@ -1,7 +1,4 @@
-<h2 style="display:none;">Hello, I'm Berik <i>Alanapapa</i> Bazarov!</h2>
-<img align='right' src="https://media.giphy.com/media/FBeSx3itXlUQw/giphy.gif" alt="welcome" />
-<p><em>Freelancer and student at <a href="https://alem.school/" target="_blank">Alem Coding School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 <br>
 
 
