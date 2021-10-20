@@ -7,6 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2F353F?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2F353F?&logo=TypeScript)
 ![Go](https://img.shields.io/badge/-Go-2F353F?&logo=Go)
+![C](https://img.shields.io/badge/-C-2F353F?&logo=C)
 
 ![SQL](https://img.shields.io/badge/-SQL-2F353F?&logo=MySQL)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-2F353F?&logo=HTML5)&nbsp;&nbsp;
