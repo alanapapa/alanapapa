@@ -20,6 +20,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-2F353F?&logo=Redux)
 ![Node.js](https://img.shields.io/badge/-node-2F353F?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-2F353F?&logo=Express)
+![Docker](https://img.shields.io/badge/-Docker-2F353F?&logo=Docker)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2F353F?&logo=MongoDB)&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2F353F?&logo=PostgreSQL)&nbsp;&nbsp;
