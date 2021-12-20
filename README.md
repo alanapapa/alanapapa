@@ -16,4 +16,4 @@
 </p>
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/alanapapa/alanapapa/blob/master/devcard.svg" width="400" alt="Berik's Dev Card"/></a>
+<a href="https://app.daily.dev/alanapapa"><img src="https://github.com/alanapapa/alanapapa/blob/master/devcard.svg" width="400" alt="Berik's Dev Card"/></a>
