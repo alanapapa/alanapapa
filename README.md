@@ -16,4 +16,4 @@
 </p>
 
 
-<a><img src="https://github.com/alanapapa/alanapapa/blob/master/devcard.svg" width="400" alt="Berik's Dev Card"/></a>
+<a href="https://www.alnp.pw/" target="_blank"><img src="https://github.com/alanapapa/alanapapa/blob/master/devcard.svg" width="400" alt="Berik's Dev Card"/></a>
