@@ -1,6 +1,4 @@
-[![](./alnplogo.png)](https://www.alnp.pw/)
-
-
+<!-- [![](./alnplogo.png)](https://www.alnp.pw/)-->
 ###
 
 |   Languages  |  Technologies    |
