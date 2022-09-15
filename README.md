@@ -7,11 +7,11 @@
 ![C](https://img.shields.io/badge/-C-2F353F?&logo=C) ![SQL](https://img.shields.io/badge/-SQL-2F353F?&logo=MySQL) ![HTML5](https://img.shields.io/badge/-HTML5-2F353F?&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-2F353F?&logo=CSS3) | ![Docker](https://img.shields.io/badge/-Docker-2F353F?&logo=Docker) ![MongoDB](https://img.shields.io/badge/-MongoDB-2F353F?&logo=MongoDB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2F353F?&logo=PostgreSQL) ![MySQL](https://img.shields.io/badge/-MySQL-2F353F?&logo=MySQL)
 
 
-<p>
+<!-- <p>
 <a>
 <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanapapa&width=100&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=nord" />
 <img height="100px" src="https://github-readme-stats.vercel.app/api?username=alanapapa&width=100%&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" /></a>
-</p>
+</p> -->
 
 
 <a href="https://www.alnp.pw/" target="_blank"><img src="https://github.com/alanapapa/alanapapa/blob/master/devcard.svg" width="400" alt="Berik's Dev Card"/></a>
